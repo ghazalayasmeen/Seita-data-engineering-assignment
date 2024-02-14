@@ -27,12 +27,6 @@ venv.bak/
 # Coverage directory used by tools like coverage.py
 .coverage
 
-# dotenv
-.env
-
-# Docker
-Dockerfile
-docker-compose.yml
 
 # Jupyter Notebook
 .ipynb_checkpoints/
