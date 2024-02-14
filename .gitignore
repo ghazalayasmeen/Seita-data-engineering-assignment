@@ -2,15 +2,6 @@
 *.pyc
 __pycache__/
 
-# Virtual Environment
-venv/
-env/
-.venv/
-ENV/
-env.bak/
-venv.bak/
-.venv.bak/
-
 # IDE
 .idea/
 .vscode/
