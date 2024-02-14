@@ -3,7 +3,7 @@ from seita_api.utils import get_forecast, get_tomorrow
 from configs import port, host
 import os
 
-# Set the working directory to the root of your project
+# Set the working directory to the root of project
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 app = FastAPI()
 
